@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Prometheus"
+title                    : "Wolf-569"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Prometheus"
+name                     : "Wolf-569"
 description              : "Can't think of something."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -113,7 +113,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Prometheus"
+  name             : "Wolf-569"
   avatar           : "/images/avatar.png"
   bio              : "The Earth is ReD"
   location         : "Somewhere"
@@ -124,17 +124,17 @@ author:
       url: "mailto:prometheus.ragnarock@proton.me"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://sudoprometheus.github.io/"
+      url: "https://wolf-569.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/sudoprometheus"
+      url: "https://github.com/wolf-569"
 
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/sudoprometheus"
+      url: "https://github.com/wolf-569"
     - label: "Infosec"
       icon: "fa-duotone fa-solid fa-shield-halved"
       url: "https://infosec.exchange/@__prometheus__"
