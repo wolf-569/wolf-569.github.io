@@ -310,3 +310,7 @@ defaults:
       layout: single
       author_profile: true
   
+collections:
+  projects:
+    output: true
+    permalink: /projects/:title/
