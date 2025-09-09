@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Wolf-569"
   avatar           : "/images/avatar.png"
-  bio              : "The Earth is ReD"
-  location         : "Somewhere"
+  bio              : "Fair Warning - This page may contain traces of truths OR lies. Nothing here is constant. It is what you make of it."
+  location         : "0x596f7572204d696e642e"
   email            :
   links:
     - label: "Email"
@@ -129,15 +129,15 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/wolf-569"
 
-# Site Footer
+# Site Footer 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/wolf-569"
-    - label: "Infosec"
-      icon: "fa-duotone fa-solid fa-shield-halved"
-      url: "https://infosec.exchange/@__prometheus__"
+    - label: "Signal"
+      icon: "fa-brands fa-signal-messenger"
+      url: "https://signal.me/#eu/dKdgU1m_Z2tLObvBH8Ooigcnr3TsbRzQ56W0o7FSm1SsqJ-VPslDapxFV1jbr99f"
 
 
 # Reading Files
