@@ -6,5 +6,8 @@ main:
     url: /projects
   - title: "Disclaimer"
     url: /disclaimer/
+  - title: "Links"
+    url: /links/
   - title: "About"
     url: /about/
+
