@@ -85,6 +85,7 @@ There are too much bright people with really interesting blogs in the hacking co
 [Question Defense: Technical answers for technical questions](http://www.question-defense.com)<br/>
 [XyliBox](http://www.xylibox.com)<br/>
 [Blog | Tomislav Zubcic's blog](http://zubcic.re)<br/>
+[Darknet Diaries](https://darknetdiaries.com/)<br/>
 
 ### Forums
 
