@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "ashen perera"
+title                    : "Ashen Perera"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "ashen perera"
+name                     : "Ashen Perera"
 description              : "Can't think of something."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -113,7 +113,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "ashen perera"
+  name             : "Ashen Perera"
   avatar           : "/images/avatar.png"
   bio              : "Fair Warning - This page may contain traces of truths OR lies. Nothing here is constant. It is what you make of it."
   location         : "0x596f7572204d696e642e"
