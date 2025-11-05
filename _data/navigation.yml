@@ -1,0 +1,13 @@
+# main links
+main:
+  - title: "Writeups"
+    url: /
+  - title: "Projects"
+    url: /projects
+  - title: "Disclaimer"
+    url: /disclaimer/
+  - title: "Links"
+    url: /links/
+  - title: "About"
+    url: /about/
+
