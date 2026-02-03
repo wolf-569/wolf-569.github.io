@@ -12,22 +12,10 @@ tags:
   - links
   - resources
   - infosec
+classes: "wide"
 ---
 
 ---
-{% include toc title="Links" %}
-
->**Note:** This section is constantly evolving. **Last update:** 01.07.2019.
-
-This is a curated collection of handy bookmarks focusing on hacking, penetration testing and other computer security topics.
-
-In my day to day work I collect and read lots of infosec resources (btw, I use [Pocket](https://getpocket.com) for this task), so I would like to share the most interesting links with the community.
-
-Inspired by the original project, the [Open Penetration Testing Bookmarks Collection](https://github.com/jhaddix/pentest-bookmarks), which seems to be no longer maintened, I cleaned it up and added some bookmarks from my personnal collection.
-
-If you want to contribute to this list, feel free to contact me [@axcheron](https://twitter.com/axcheron).
-
-
 # Medias
 
 If you want to check the news about hacking and security, here are the links I usually read during my morning coffee. By the way, I manage my links with [Feedly](https://feedly.com), a really handy tool !

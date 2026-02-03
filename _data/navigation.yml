@@ -2,8 +2,6 @@
 main:
   - title: "Writeups"
     url: /
-  - title: "Projects"
-    url: /projects
   - title: "Disclaimer"
     url: /disclaimer/
   - title: "Links"

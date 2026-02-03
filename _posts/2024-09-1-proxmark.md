@@ -4,6 +4,9 @@ excerpt: "How to update the Proxmark3 on Apple OSX."
 tags:
   - wireless
   - wps
+
+
+classes: "wide"
 ---
 
 ---
